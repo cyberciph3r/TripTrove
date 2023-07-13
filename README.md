@@ -8,6 +8,6 @@ TripTrove
 - Utilized Google Places API to implement a place search feature, enabling users to search for specific 
  locations and retrieve updated information relevant to the searched place.
 - Frontend: React, Material-UI
-  APIs: Google Maps API, Google Places API, and Travel Advisor API (Rapid API)
+- APIs: Google Maps API, Google Places API, and Travel Advisor API (Rapid API)
 
 Live website -> https://triptrove.netlify.app/
