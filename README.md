@@ -8,4 +8,4 @@ TripTrove
  locations and retrieve updated details relevant to the searched place.
 - Developed a visually appealing and user-friendly frontend using React, enhanced with the Material-UI library, for a modern and polished UI design.
 
-Live website -> https://triptrove.netlify.app/
+Live website - https://triptrove.netlify.app/
